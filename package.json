@@ -1,0 +1,24 @@
+{
+  "name": "tzviyasiegman.com",
+  "version": "0.0.0",
+  "description": "tzviyasiegman.com built with 11ty.",
+  "main": ".eleventy.js",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TzviyaSiegman/tzviyasiegman.com.git"
+  },
+  "author": "Tzviya Siegman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TzviyaSiegman/tzviyasiegman.com/issues"
+  },
+  "homepage": "https://github.com/TzviyaSiegman/tzviyasiegman.com#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
