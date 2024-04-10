@@ -1,2 +1,2 @@
 # tzviyasiegman.com
-website stuff
+This is where the materials for tzviyasiegman.com are developed.
